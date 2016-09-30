@@ -1,0 +1,18 @@
+27.06.2016
+
+##Formularze
+	+ Obs³uga statusu formularzy (Aktywacja/Dezaktywacja formularza w zak³adce wydarzenia)
+		
+##Powiadomienia
+	+ Obs³uga to¿samosci PHPMailer do spersonalizowania wysy³ki powiadomieñ
+		
+##Lista uczestników
+	+ Poprawiono krótkie nazwy zmiennuch które powodowa³y w pewnych przypadkach b³êdne dzia³anie przycisków Akceptuj/Odrzuæ uczestnika.
+	
+	
+28.06.2016
+
+##Wydarzenia
+	+ Dodano opcjê ustawienia wyda¿enia jako prywatnego przy tworzeniu wydarzenia oraz zmiane statusu przy edycji.
+	* Zmodyfikowano zapytania SQL z pojedynczych na UNION oraz JOIN w celu optymalizacji kodu SQL. 
+	- Usuniêto kilka mniejszych b³êdów zwi¹zanych ze zmiennymi przy tworzeniu wydarzeñ.
